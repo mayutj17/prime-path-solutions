@@ -229,7 +229,7 @@ export default function ContactUs() {
                 )}
               </div>
 
-              <a href="mailto:mayutj17@gmail.com>
+              <a href="mailto:mayutj17@gmail.com">
               <button
                 type="submit"
                 className="w-full py-4 px-6 bg-[#750000] text-white rounded-lg hover:bg-[#600000] transition-colors duration-200"
