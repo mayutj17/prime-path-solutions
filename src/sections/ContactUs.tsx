@@ -136,7 +136,7 @@ export default function ContactUs() {
                 <div>
                   <h4 className="font-medium">EMAIL:</h4>
                   <span className="text-gray-600">
-                    contact@primepathsolutions.com
+                    contact@primepath-solutions.com
                   </span>
                 </div>
               </div>
